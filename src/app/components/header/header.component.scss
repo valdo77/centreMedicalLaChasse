@@ -1,0 +1,89 @@
+#header{
+  position: relative;
+  padding: 5px;
+}
+
+.down{
+  margin-top: 50px;
+}
+
+#nav{
+  .logo{
+    width: 250px;
+    height: auto;
+  }
+
+  .menu-items{
+    height: auto;
+    opacity: 0.7;
+  }
+}
+
+
+#banner{
+  padding: 10px;
+  margin-top: 40px;
+
+  .main_image_gt_sm{
+    img{
+      width: 80%;
+      height: auto;
+    }
+  }
+
+  .main_image_gt_xs{
+    img{
+      width: 95%;
+      height: auto;
+    }
+  }
+  .main_image_xs{
+    img{
+      width: 95%;
+      height: auto;
+    }
+  }
+  .main_text_gt_sm{
+    h1{
+      font-weight: bold;
+      font-size: 35px;
+      color: #000000;
+    }
+    h3{
+      font-weight: bold;
+      color: rgba(#000000, 0.5)
+    }
+  }
+
+  .main_text_gt_xs{
+    h1{
+      font-weight: bold;
+      font-size: 20px;
+      color: #000000;
+    }
+    h3{
+      font-weight: bold;
+      color: rgba(#000000, 0.5);
+      font-size: 12px;
+    }
+  }
+  .main_text_xs{
+    text-align: center;
+    h1{
+      font-weight: bold;
+      font-size: 15px;
+      color: #000000;
+      text-align: center;
+    }
+    h3{
+      font-weight: bold;
+      color: rgba(#000000, 0.5);
+      font-size: 15px;
+      text-align: center;
+    }
+
+    button{
+      margin: auto;
+    }
+  }
+}

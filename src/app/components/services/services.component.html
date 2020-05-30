@@ -1,0 +1,15 @@
+
+<div id="services">
+  <h1>NOS SERVICES</h1>
+  <mat-grid-list [cols]="column" rowHeight="250">
+    <mat-grid-tile class="box" *ngFor="let service of services">
+      <div class="elt">
+        <img [src]="service.icon">
+        <h4>{{service.title}}</h4>
+        <p>{{service.description}}</p>
+        <button mat-stroked-button color="accent">Voir plus</button>
+      </div>
+    </mat-grid-tile>
+  </mat-grid-list>
+
+</div>

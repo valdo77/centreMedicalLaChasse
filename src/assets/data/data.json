@@ -1,0 +1,121 @@
+[
+  {
+      "icon": "assets/imgs/medecine-generale.svg",
+      "title": "Médecine générale",
+      "description": "La médecine générale, couvre l'ensemble de la médécine.",
+      "id": 1,
+      "details": "La médecine générale, ou médecine familiale, est une spécialité médicale prenant en charge le suivi durable, le bien-être et les soins de santé généraux primaires d'une communauté, sans se limiter à des groupes de maladies relevant d'un organe, d'un âge, ou d'un sexe particulier. Le médecin généraliste, aussi appelé médecin omnipraticien ou médecin de famille, est donc souvent consulté pour diagnostiquer les symptômes avant de traiter la maladie ou de référer le patient à un autre médecin spécialiste."
+  },
+  {
+      "icon": "assets/imgs/soins-infirmiers.svg",
+      "title": "Anesthésiologie",
+      "description": "l'anesthésie consiste à prévenir les douleurs des patients. Elle est générale ou locale.",
+      "id": 2,
+      "details": "l'anesthésie (ou anesthésiologie au Canada) et à la réanimation : prise en charge péri-opératoire (avant, pendant et après l'opération chirurgicale) des patients. Cette prise en charge globale repose sur une évaluation pré-opératoire. Lors de l'intervention, l'anesthésiste va prévenir la douleur par l'utilisation d'antalgiques, éventuellement sédater le malade (pour éviter toute mémorisation) à l'aide d'hypnotiques et dans certains cas relâcher l'ensemble de ses muscles à l'aide de curares. Il s'agit alors d'une anesthésie générale. Tout cela n'est possible que sous un contrôle continu des grandes fonctions vitales. L'anesthésie (loco)régionale consiste à n'endormir qu'une partie du corps (bras, jambe, région sous ombilicale) pour permettre chez un patient éveillé de réaliser une intervention chirurgicale limitée à la région bloquée (anesthésiée). L'analgésie péridurale, réalisée par un médecin anesthésiste réanimateur, permet de réduire les douleurs lors de l'accouchement."
+  },
+  {
+      "icon": "assets/imgs/cardiologie.svg",
+      "title": "Anesthésiologie",
+      "description": "La cardiologie est une spécialité de la médecine qui étudie le coeur et les vaisseaux",
+      "id": 3,
+      "details": "La cardiologie est une branche de la médecine qui traite des troubles du cœur ainsi que de certaines parties du système circulatoire. Le domaine comprend le diagnostic médical et le traitement des malformations cardiaques congénitales, des maladies coronariennes, de l'insuffisance cardiaque, des cardiopathies valvulaires et de l'électrophysiologie. Les médecins spécialisés dans ce domaine de la médecine sont appelés cardiologues. Les cardiologues pédiatres sont des pédiatres spécialisés en cardiologie. Les médecins spécialisés en chirurgie cardiaque sont appelés chirurgiens cardiothoraciques ou chirurgiens cardiaques, une spécialité de la chirurgie générale."
+  },
+  {
+      "icon": "assets/imgs/chirurgie.svg",
+      "title": "Chirurgie",
+      "description": "La chirurgie est une branche de la médecine qui traite les blessures et les maladies par des moyens faisant appel à des manipulations internes ou des opérations.",
+      "id": 4,
+      "details": "La chirurgie est la partie de la thérapeutique qui implique des opérations internes ou des manœuvres externes sur les tissus, notamment par incision et suture. Un chirurgien est un professionnel de la santé habilité à pratiquer la chirurgie (médecin spécialiste, chirurgien-dentiste, vétérinaire). Un acte médical pratiqué par un chirurgien est une opération chirurgicale."
+  },
+  {
+      "icon": "assets/imgs/dentisterie.svg",
+      "title": "Dentisterie",
+      "description": "La dentisterie est une branche de la médecine qui s'occupe des soins dentaires, chirurgie parodontale, implantologie, implants dentaires.",
+      "id": 5,
+      "details": "La dentisterie est la science médico-chirurgicale couvrant l'étude de l'organe dentaire (émail, dentine, pulpe dentaire), des maxillaires (os maxillaire, os mandibulaire) et des tissus attenants. La pratique de l'odontologie comporte la prévention, le diagnostic et le traitement des pathologies congénitales ou acquises, réelles ou supposées de l'ensemble de ces structures anatomiques oro-faciales3. Cette spécialité medico-chirurgicale est exercée par des praticiens, nommés chirurgiens-dentistes ou médecins-dentistes, l'appellation variant suivant les pays."
+  },
+  {
+      "icon": "assets/imgs/chirurgie_vasculaire.svg",
+      "title": "Chirurgie vasculaire",
+      "description": "La chirurgie vasculaire est la chirurgie des vaisseaux, artères et veines, à l'exclusion des vaisseaux intracrâniens et coronaires",
+      "id": 6,
+      "details": "La chirurgie vasculaire est la chirurgie des vaisseaux, artères et veines, à l'exclusion des vaisseaux intracrâniens et coronaires."
+  },
+  {
+      "icon": "assets/imgs/gastroenterologie.svg",
+      "title": "Gastroentérologie",
+      "description": "La gastro-entérologie est la spécialité médicale qui étudie l'appareil digestif et ses maladies.",
+      "id": 7,
+      "details": "La gastroentérologie s'intéresse à l'ensemble du tube digestif, du pharynx jusqu'à l'anus, et des organes digestifs intra-abdominaux que sont le foie, les voies biliaires, et le pancréas (excepté dans sa fonction endocrine qui relève de l'endocrinologie). Si la gastro-entérologie est une spécialité médicale, les médecins la pratiquant réalisent couramment des actes techniques, comme les endoscopies digestives (par exemple œso-gastro-duodénoscopie et colonoscopie) et des gestes utilisant des techniques de radiologie interventionnelle."
+  },
+  {
+      "icon": "assets/imgs/gynecologie.svg",
+      "title": "Gynécologie",
+      "description": "La gynécologie est une branche de la médecine qui s'occupe de la physiologie et des affections du système génital de la femme.",
+      "id": 8,
+      "details": "La gynécologie est une spécialité médico-chirurgicale qui s'occupe de la physiologie et des affections du système génital de la femme. Le médecin spécialisé pratiquant la gynécologie s'appelle un gynécologue."
+  },
+  {
+      "icon": "assets/imgs/kinesitherapie.svg",
+      "title": "Kinésitherapie",
+      "description": "La kinésithérapie emploie le mouvement dans le but de renforcer, maintenir ou rétablir les capacités fonctionnelles.",
+      "id": 9,
+      "details": "La kinésithérapie — ou la physiothérapie, de manière plus générale — est une profession de santé et une science clinique. Elle emploie le mouvement dans le but de renforcer, maintenir ou rétablir les capacités fonctionnelles. La kinésithérapie signifie traitement par le mouvement. Elle agit au niveau musculaire et articulaire. Les techniques sont utilisées dans le but de la rééducation du mouvement et ainsi que de la posture de la personne."
+  },
+  {
+      "icon": "assets/imgs/medecine_du_dos.svg",
+      "title": "Médecine du dos",
+      "description": "",
+      "id": 10,
+      "details": ""
+  },
+  {
+      "icon": "assets/imgs/neuro-chirurgie.svg",
+      "title": "Neurochirurgie",
+      "description": "la neurochirurgie est une intervention sur le système nerveux: le cerveau, la moelle épinière, les nerfs et la colonne vertébrale.",
+      "id": 11,
+      "details": "La neurochirurgie est la discipline chirurgicale qui est spécialisée dans la chirurgie du système nerveux central et du système nerveux périphérique. Le chirurgien spécialisé pratiquant la neurochirurgie s'appelle le neurochirurgien."
+  },
+  {
+      "icon": "assets/imgs/orl.svg",
+      "title": "ORL",
+      "description": "L'ORL est spécialisée dans le diagnostic et le traitement des troubles du nez, de la gorge, de l'oreille, et de la région tête et cou.",
+      "id": 12,
+      "details": "L'otorhinolaryngologie (littéralement « étude de l'oreille, du nez et du larynx ») représente une branche de la médecine spécialisée dans le diagnostic et le traitement des troubles du nez, de la gorge, de l'oreille, et de la région tête et cou. Le praticien est appelé otorhinolaryngologiste (ORL)."
+    },
+  {
+      "icon": "assets/imgs/orthopedi.svg",
+      "title": "Orthopédie",
+      "description": "L'orthopédie a pour objet la prévention et la correction des affections de l'appareil locomoteur.",
+      "id": 13,
+      "details": "L'orthopédie est la spécialité chirurgicale qui a pour objet la prévention et la correction des affections de l'appareil locomoteur, qui recouvrent les déformations et les malformations des os, des articulations, des muscles, des tendons et des nerfs. Le traitement chirurgical porte sur les membres supérieurs (épaule, coude et main), les membres inférieurs (hanche, genou et pied) et le rachis."
+  },
+  {
+      "icon": "assets/imgs/pediatrie.svg",
+      "title": "Pédiatrie",
+      "description": "La pédiatrie a pour objet l'étude, le diagnostic, le traitement, la prévention des maladies infantiles et la protection de l'enfance.",
+      "id": 14,
+      "details": "La pédiatrie est une branche spécialisée de la médecine qui étudie le développement psycho-moteur et physiologique normal de l'enfant, ainsi que toute la pathologie qui y a trait (maladies infantiles), de la naissance à la période postpubertaire où il devient adulte ; c'est la médecine des enfants, l'enfant étant défini en droit comme tout sujet âgé de moins de 18 ans (article 1er de la Convention relative aux droits de l'enfant). Le médecin spécialisé en pédiatrie s'appelle le pédiatre."
+  },
+  {
+      "icon": "assets/imgs/prelevements.svg",
+      "title": "Prise de sang",
+      "description": "Le prélèvement sanguin permet de réaliser des examens de laboratoire sur un échantillon de sang prélevé.",
+      "id": 15,
+      "details": "Une prise de sang est un prélèvement sanguin réalisé le plus souvent dans une veine du bras, à l’aide d’une aiguille. Il permet d’analyser le sang, pour diagnostiquer certaines maladies. Cet examen est peu douloureux. Toutefois, la peau peut être légèrement sensible lorsque l’aiguille la traverse. Aussi, chez les enfants, on utilise parfois un patch anesthésiant, afin d’insensibiliser la zone de ponction. Il se pose sur le bras, une heure avant le prélèvement."
+  },
+  {
+      "icon": "assets/imgs/psychotherapie.svg",
+      "title": "Psychiatrie",
+      "description": "La psychiatrie est une spécialité médicale traitant de la maladie mentale.",
+      "id": 16,
+      "details": "La psychiatrie est une spécialité médicale traitant de la maladie mentale. Le champ de la psychiatrie s'étend du diagnostic, au traitement, en passant par la prévention des troubles mentaux, incluant les divers troubles cognitifs, comportementaux et affectifs."
+  },
+  {
+      "icon": "assets/imgs/urologie.svg",
+      "title": "Urologie",
+      "description": "L'urologie prend en charge les affections de l'appareil urinaire de la femme et de l'homme (vessie, uretère, urètre).",
+      "id": 16,
+      "details": "L’urologie est le domaine de la médecine qui s'applique aux reins, aux voies urinaires des hommes ou des femmes, au système reproducteur masculin (appareil urogénital masculin) et aux glandes surrénales."
+  }
+]
