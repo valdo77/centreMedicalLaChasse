@@ -13,11 +13,8 @@
   </div>
 </div>
 
-<router-outlet>
-  <div id="page">
-    <app-header [device]="device"></app-header>
-    <app-about [device]="device" ></app-about>
-    <app-services [column]="column" ></app-services>
-    <app-footer [column]="column" ></app-footer>
-  </div>
-</router-outlet>
+<app-header></app-header>
+<router-outlet></router-outlet>
+<app-footer></app-footer>
+
+

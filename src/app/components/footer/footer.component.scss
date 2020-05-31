@@ -1,3 +1,45 @@
 #footer {
-  height: 400px;
+  background: #dfe6e9;
+  width: 100%;
+}
+
+#title{
+  padding: 20px;
+  text-align: center;
+  font-weight: bold;
+  opacity: 0.7;
+}
+
+#content {
+  padding: 20px;
+}
+
+#form3 {
+  font-weight: bold;
+
+  h3{
+    text-decoration: underline;
+    font-weight: bold;
+  }
+
+  mat-icon{
+    margin-right: 10px;
+    vertical-align: -5px;
+  }
+
+  a{
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+  }
+}
+
+#form1, #form2, #form3 {
+  *{
+    width: 100%;
+  }
+}
+
+.text_sm{
+  zoom: 0.8;
 }

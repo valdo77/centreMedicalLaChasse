@@ -1,3 +1,57 @@
 <div id="footer">
 
+  <h1 id="title">Contactez nous <mat-icon matSuffix style="vertical-align: -5px;">textsms</mat-icon> </h1>
+
+  <div id="content" fxLayout.xs="column" fxLayout.gt-xs="row" fxLayoutAlign="space-between">
+
+    <div id="form1" fxLayout.gt-xs="column" fxFlex.gt-xs="30" fxFlex.xs="100">
+      <mat-form-field appearance="outline" color="accent">
+        <mat-label>Nom</mat-label>
+        <input type="text" matInput required [(ngModel)]="nom">
+        <mat-icon matSuffix>person_pin</mat-icon>
+      </mat-form-field>
+      <mat-form-field appearance="outline" color="accent">
+        <mat-label>Adresse Email</mat-label>
+        <input type="mail" matInput required [(ngModel)]="mail">
+        <mat-icon matSuffix>mail</mat-icon>
+      </mat-form-field>
+      <mat-form-field appearance="outline" color="accent">
+        <mat-label>Sujet</mat-label>
+        <input type="text" matInput required [(ngModel)]="sujet">
+        <mat-icon matSuffix>create</mat-icon>
+      </mat-form-field>
+    </div>
+
+    <div id="form2" fxLayout.gt-xs="column" fxFlex.gt-xs="30" fxFlex.xs="100">
+      <mat-form-field appearance="outline" color="accent">
+        <mat-label>Message</mat-label>
+        <textarea placeholder="Laissez un message" matInput cols="30" rows="10" required [(ngModel)]="message"></textarea>
+        <mat-icon matSuffix>comment</mat-icon>
+      </mat-form-field>
+      <button mat-raised-button color="primary" (click)="sendemail()">Envoyer</button>
+    </div>
+
+    <div id="form3" fxLayout.gt-xs="column" fxFlex.gt-xs="30" fxFlex.xs="100" ngClass.sm="text_sm">
+      <h3>CENTRE MÉDICAL LA CHASSE</h3>
+      <address>
+        <p>
+          <mat-icon matPrefix>location_on</mat-icon>
+          RUE DU CIMETIÉRE 43
+          7340 COLFONTAINE
+        </p>
+
+        <p>
+          <mat-icon matPrefix>call</mat-icon>
+          <a href="tel:0493.57.40.72">0493.57.40.72</a>
+        </p>
+
+        <p>
+          <mat-icon matPrefix>email</mat-icon>
+          <a href="mailto:info@easy7.be">info@easy7.be</a>
+        </p>
+      </address>
+    </div>
+  </div>
+
+  <p style="text-align: center;font-size: 12px;margin:0;">©2019-2020 Centre Médical La Chasse - Tous droits réservés</p>
 </div>
