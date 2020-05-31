@@ -7,7 +7,7 @@
         <img [src]="service.icon">
         <h4>{{service.title}}</h4>
         <p>{{service.description}}</p>
-        <button mat-stroked-button color="accent">Voir plus</button>
+        <button mat-stroked-button color="accent" [routerLink]="['details', service.id]">Voir plus</button>
       </div>
     </mat-grid-tile>
   </mat-grid-list>
